@@ -1,6 +1,5 @@
-# webserv_tester
+# webserver_test
   
-This is a tester for 42 subject <i>webserv</i>
 it tests:
 
 1. check if the webserver follows RFC
